@@ -2,6 +2,11 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Fiberoptics Fundamentals
 uid: cdf7cd35-902f-bddd-3b0d-0c53aa48ef4e

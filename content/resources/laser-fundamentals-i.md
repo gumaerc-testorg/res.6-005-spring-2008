@@ -2,6 +2,11 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Laser Fundamentals I '
 uid: ab14d1f0-2739-2c49-d472-d29fb74a7e42
