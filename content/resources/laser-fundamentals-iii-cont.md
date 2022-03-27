@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -8,6 +9,7 @@ optional_text: ''
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Laser Fundamentals III (cont.)
 uid: 869de5aa-f938-562f-23d7-2377e25bb91a
 video_files:

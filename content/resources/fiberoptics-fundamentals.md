@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -8,6 +9,7 @@ optional_text: ''
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Fiberoptics Fundamentals
 uid: cdf7cd35-902f-bddd-3b0d-0c53aa48ef4e
 video_files:

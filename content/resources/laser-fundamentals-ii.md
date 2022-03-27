@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -8,6 +9,7 @@ optional_text: ''
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Laser Fundamentals II '
 uid: 578e602d-5235-f309-9f6b-61f761c519ab
 video_files:
