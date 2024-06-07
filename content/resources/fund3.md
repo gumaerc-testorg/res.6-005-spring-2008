@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-6-005-understanding-lasers-and-fiberoptics-spring-2008/367b1619b87dcb181089f3e1e3bafeb2_fund3.jpg
+file_size: 3678
 file_type: image/jpeg
 image_metadata:
   caption: ''
