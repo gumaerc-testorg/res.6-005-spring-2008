@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-6-005-understanding-lasers-and-fiberoptics-spring-2008/682015c39a611dd1c380f55e5bf1571d_fund2.jpg
+file: /courses/res-6-005-understanding-lasers-and-fiberoptics-spring-2008/682015c39a611dd1c380f55e5bf1571d_fund2.jpg
 file_size: 3640
 file_type: image/jpeg
 image_metadata:
